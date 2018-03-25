@@ -3,7 +3,7 @@ import java.io.*;
 /**
 * This class implements the division of file.
 *
-* @author Shubam Manhas
+* @author Mohit Verma
 * @version 1.0
 * @since 25-03-2018
 */
